@@ -3,7 +3,7 @@ The goal of this project is to improve my skills in Python and Machine Learning 
 The project can be divided into the following stages:
 -> Building the database
 -> Labeling images
--> Adjustements to YOLOv8 architecture
+-> Adjusting the YOLOv8 architecture
 -> Analyzing graphics
--> Real Time video detection
-All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme_.
+-> Real-time video detection
+All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme_
