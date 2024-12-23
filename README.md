@@ -14,4 +14,4 @@ The following repository intented to show how I develop a Building Damage Detect
 
     > Real-time video detection
 
-💻 All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme_.
+💻 All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _[Labelme]([url](https://github.com/wkentaro/labelme))_.
