@@ -1,9 +1,9 @@
-The following repositorie is made with the intention to show how I develop a Building Damage Detection System with YOLOv8.
-The development of this project has the intention to improve my habilities with Python lenguage and Machine Learning models.
-We can split the project in the next stages:
-- Building database
-- Labeling images
-- Adjustements to YOLOv8 architecture
-- Graphics's study
-- Real Time video detection
-All developed with Python
+The following repository intented to show how I develop a Building Damage Detection System using YOLOv8.
+The goal of this project is to improve my skills in Python and Machine Learning models.
+The project can be divided into the following stages:
+-> Building the database
+-> Labeling images
+-> Adjustements to YOLOv8 architecture
+-> Analyzing graphics
+-> Real Time video detection
+All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme_.
