@@ -7,4 +7,4 @@ The following repository intented to show how I develop a Building Damage Detect
 -> Adjusting the YOLOv8 architecture
 -> Analyzing graphics
 -> Real-time video detection
-💻 All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using Labelme.
+💻 All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using *Labelme*.
