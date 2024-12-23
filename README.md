@@ -4,11 +4,11 @@ The following repository intented to show how I develop a Building Damage Detect
 
 📂 The project can be divided into the following stages:
 
-    > Building the database
+    > Building database
 
     > Labeling images
 
-    > Adjusting the YOLOv8 architecture
+    > Adjusting YOLOv8 architecture
 
     > Analyzing graphics
 
