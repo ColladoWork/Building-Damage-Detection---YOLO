@@ -6,4 +6,4 @@ The project can be divided into the following stages:
 -> Adjusting the YOLOv8 architecture
 -> Analyzing graphics
 -> Real-time video detection
-All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme_
+All stages were developed using Python, except for the database building and labeling processes. The labeling was performed using _Labelme._
